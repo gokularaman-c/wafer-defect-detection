@@ -81,4 +81,4 @@ wcwidth==0.2.13
 zstandard==0.23.0
 python-multipart==0.0.21
 fastapi==0.127.0
-uvicorn==0.40.0
+uvicorn==0.40.
