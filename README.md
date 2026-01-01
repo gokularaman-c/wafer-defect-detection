@@ -236,6 +236,6 @@ Minimum requirements:
   * lot IDs (if available)
   * augmentation recipe
   * class caps / target counts
-  * library versions + git commit hash
+  * library versions + git commit hash.
 
 ---
