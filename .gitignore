@@ -1,0 +1,41 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.Q/
+Q/
+wdd_project_env/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore build artifacts
+*.log
+*.out
+*.tmp
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large dataset and weights
+data/
+datasets/
+dataset/
+notebooks/weights/
+notebooks/test samples(2-per-class)/
+*.pkl
+*.npy
+*.npz
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+notebooks/chkpt/*.pth
+notebooks/splits/*.pkl
