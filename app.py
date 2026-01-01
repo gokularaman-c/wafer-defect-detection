@@ -1,4 +1,5 @@
 # app.py — FastAPI inference for WaferNet (DenseNet121+ECA, GAP+GMP head)
+# Entry point for wafer defect detection application
 
 import os
 import io
