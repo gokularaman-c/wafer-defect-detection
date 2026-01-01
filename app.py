@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import List, Optional, Tuple, Union
 
 import numpy as np
-from PIL import Image#import PIL.Image --- IGNORE ---
+from PIL import Image
 
 import torch
 import torch.nn as nn
