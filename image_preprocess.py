@@ -97,4 +97,4 @@ def load_input_any(
             im = _resize_nn(im, resize)
             m = (np.array(im) > 0).astype(np.float32)
         x[1] = (m > 0).astype(np.float32)
-    return x.astype(np.float32)## end of file image_preprocess.py
+    return x.astype(np.float32)
