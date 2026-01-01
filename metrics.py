@@ -9,7 +9,7 @@ import math
 from typing import List, Optional
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt#this line added to avoid plt backend issues
 
 # ── 1) Paste your full training log here ──────────────────────────────────────
 log_text = r"""
